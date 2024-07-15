@@ -12,7 +12,7 @@
 <h3 align="left">Senior ML Engineer</h3>
 
 
-**Here's a little about me:-**
+**Focusing:-**
 * Data Science
 * Machine Learning (ML)
 * Artificial Intelligence (AI)
